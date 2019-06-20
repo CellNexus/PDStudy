@@ -4,7 +4,7 @@ category: blog
 permalink: /:categories/:year/:month/:day/:title
 title: "A brief look at the progress of Parkinson’s research in 2018"
 tags: ['Parkinsons disease', 'symptoms', 'causes']
-image: "2019-04-01/pd-symptoms1.png"
+image: "2019-05-11/200_years_parkinsons_disease_research.jpg"
 identifier: 3
 ---
 
